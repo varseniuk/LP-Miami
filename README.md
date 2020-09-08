@@ -1,6 +1,6 @@
 # Miami Condo Kings landing page
 [DEMO LINK](https://varseniuk.github.io/LP_Miami/) |
-[LAYOUT DESIGN](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=0%3A2)-(Copy)?node-id=0%3A1))
+[LAYOUT DESIGN](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=0%3A2)
 
 # About
 The landing page for Hotel Network.
